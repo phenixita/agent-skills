@@ -8,6 +8,61 @@
       "name": "ilspy-decompile",
       "source": "./",
       "description": "Decompile .NET assemblies from the command line. View C# source, list types, generate compilable projects, and inspect IL code using ILSpy."
+    },
+    {
+      "name": "azure-devops-cli-devops",
+      "source": "./",
+      "description": "Core Azure DevOps CLI setup, auth, configuration, and projects."
+    },
+    {
+      "name": "azure-devops-cli-repos",
+      "source": "./",
+      "description": "Azure Repos management including repositories, PRs, refs, and policies."
+    },
+    {
+      "name": "azure-devops-cli-pipelines",
+      "source": "./",
+      "description": "Manage pipelines, runs, builds, releases, variables, and agents."
+    },
+    {
+      "name": "azure-devops-cli-boards",
+      "source": "./",
+      "description": "Azure Boards work items, areas, and iterations."
+    },
+    {
+      "name": "azure-devops-cli-artifacts",
+      "source": "./",
+      "description": "Azure Artifacts universal package publish and download."
+    },
+    {
+      "name": "azure-devops-cli-admin",
+      "source": "./",
+      "description": "Admin banners and DevOps extensions management."
+    },
+    {
+      "name": "azure-devops-cli-security",
+      "source": "./",
+      "description": "Security groups and permissions management."
+    },
+    {
+      "name": "azure-devops-cli-wiki",
+      "source": "./",
+      "description": "Manage wikis and wiki pages."
+    },
+    {
+      "name": "azure-devops-cli-users",
+      "source": "./",
+      "description": "Manage users and licenses in Azure DevOps."
+    },
+    {
+      "name": "azure-devops-cli-teams",
+      "source": "./",
+      "description": "Manage teams and team membership."
+    },
+    {
+      "name": "azure-devops-cli-service-endpoint",
+      "source": "./",
+      "description": "Manage service endpoints and service connections."
     }
   ]
 }

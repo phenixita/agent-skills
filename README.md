@@ -6,7 +6,18 @@
 
 | Skill | Description |
 |-------|-------------|
-| [ilspy-decompile](skills/dotnet/ilspy-decompile/SKILL.md) | Understand .NET implementation details by decompiling assemblies |
+| [ilspy-decompile](skills/ilspy-decompile/SKILL.md) | Understand .NET implementation details by decompiling assemblies |
+| [azure-devops-cli-devops](skills/azure-devops-cli-devops/SKILL.md) | Core Azure DevOps CLI setup, auth, configuration, and projects |
+| [azure-devops-cli-repos](skills/azure-devops-cli-repos/SKILL.md) | Azure Repos management, pull requests, refs, and policies |
+| [azure-devops-cli-pipelines](skills/azure-devops-cli-pipelines/SKILL.md) | Pipelines, runs, builds, releases, variables, and agents |
+| [azure-devops-cli-boards](skills/azure-devops-cli-boards/SKILL.md) | Azure Boards work items, areas, and iterations |
+| [azure-devops-cli-artifacts](skills/azure-devops-cli-artifacts/SKILL.md) | Azure Artifacts universal packages |
+| [azure-devops-cli-admin](skills/azure-devops-cli-admin/SKILL.md) | Admin banners and DevOps extensions |
+| [azure-devops-cli-security](skills/azure-devops-cli-security/SKILL.md) | Security groups and permissions |
+| [azure-devops-cli-wiki](skills/azure-devops-cli-wiki/SKILL.md) | Wikis and wiki pages |
+| [azure-devops-cli-users](skills/azure-devops-cli-users/SKILL.md) | User management and licensing |
+| [azure-devops-cli-teams](skills/azure-devops-cli-teams/SKILL.md) | Team management and membership |
+| [azure-devops-cli-service-endpoint](skills/azure-devops-cli-service-endpoint/SKILL.md) | Service endpoints and service connections |
 
 ## What are Skills?
 
