@@ -11,6 +11,7 @@
 | [azure-devops-cli-repos](skills/azure-devops-cli-repos/SKILL.md) | Azure Repos management, pull requests, refs, and policies |
 | [azure-devops-cli-pipelines](skills/azure-devops-cli-pipelines/SKILL.md) | Pipelines, runs, builds, releases, variables, and agents |
 | [azure-devops-cli-boards](skills/azure-devops-cli-boards/SKILL.md) | Azure Boards work items, areas, and iterations |
+| [azure-devops-analytics](skills/azure-devops-analytics/SKILL.md) | Azure DevOps Analytics OData queries |
 | [azure-devops-cli-artifacts](skills/azure-devops-cli-artifacts/SKILL.md) | Azure Artifacts universal packages |
 | [azure-devops-cli-admin](skills/azure-devops-cli-admin/SKILL.md) | Admin banners and DevOps extensions |
 | [azure-devops-cli-security](skills/azure-devops-cli-security/SKILL.md) | Security groups and permissions |
