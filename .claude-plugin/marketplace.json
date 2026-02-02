@@ -1,0 +1,13 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "Michele Ferracin"
+  },
+  "plugins": [
+    {
+      "name": "ilspy-decompile",
+      "source": "./",
+      "description": "Decompile .NET assemblies from the command line. View C# source, list types, generate compilable projects, and inspect IL code using ILSpy."
+    }
+  ]
+}
